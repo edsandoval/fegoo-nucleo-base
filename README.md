@@ -1,6 +1,6 @@
 # Nucleo - Mobile Price Tracker
 
-![Nucleo Logo](https://example.com/nucleo-logo.png)
+![Nucleo Logo](https://raw.githubusercontent.com/edsandoval/fegoo-nucleo-base/main/assets/logo.png)
 
 ## Overview
 
